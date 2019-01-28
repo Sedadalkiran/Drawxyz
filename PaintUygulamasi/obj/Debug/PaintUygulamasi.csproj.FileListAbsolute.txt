@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\bin\Debug\PaintUygulamasi.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\bin\Debug\PaintUygulamasi.exe
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\bin\Debug\PaintUygulamasi.pdb
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\obj\Debug\PaintUygulamasi.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\obj\Debug\PaintUygulamasi.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\obj\Debug\PaintUygulamasi.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\obj\Debug\PaintUygulamasi.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\obj\Debug\PaintUygulamasi.exe
+c:\users\dell\documents\visual studio 2017\Projects\PaintUygulamasi\PaintUygulamasi\obj\Debug\PaintUygulamasi.pdb
